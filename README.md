@@ -13,4 +13,6 @@ Step 3: git commit -m
 git push 
 refresh github
 
+These changes are a test for the second branch.
+
 ```
